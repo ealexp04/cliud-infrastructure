@@ -5,3 +5,7 @@
        ## Getting Started
           
            Instructions for using these templates will be added soon.
+
+    ## Network Configuration
+    
+     The `network-setup.tf` file contains Terraform configuration for setting up a virtual network in Azure.
